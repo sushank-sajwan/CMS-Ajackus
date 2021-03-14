@@ -1,0 +1,21 @@
+# Ignore generated directories
+/out/
+venv
+log/
+
+# Ignore generated files
+db.sqlite3
+*.pyc
+*.pyo
+*.orig
+
+# Ignore other specific files
+.coverage
+.project
+.pydevproject
+.pydevproject.bak
+.vagrant
+
+# PyCharm Folders
+.idea
+media
